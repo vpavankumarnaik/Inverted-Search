@@ -27,6 +27,7 @@ An inverted index maps words to the files in which they appear, allowing fast se
 All files are located in the root directory:
 
 Inverted-Search/
+
 │
 ├── main.c        # Program entry point  
 ├── operation.c   # Index creation and search operations  
